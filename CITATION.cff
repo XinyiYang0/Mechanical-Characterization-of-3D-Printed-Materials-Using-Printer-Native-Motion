@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: >-
+  Please cite the accompanying manuscript with the title below. When using the
+  plastic framework, also cite Victor Riera Naranjo's archived software,
+  DOI 10.5281/zenodo.22163290. That DOI applies only to the plastic framework.
+title: "Mechanical Characterization of 3D-Printed Materials Using Printer-Native Motion: accompanying code"
+type: software
+authors:
+  - family-names: Yang
+    given-names: Xinyi
+  - family-names: Li
+    given-names: Xiaochen
+  - family-names: Sun
+    given-names: Chuqi
+  - family-names: Riera Naranjo
+    given-names: Victor
+  - family-names: Zachry
+    given-names: Cole V
+  - family-names: Rajan
+    given-names: Dhanyaa
+  - family-names: Athanasiou
+    given-names: Christos E
+  - family-names: Deng
+    given-names: Bolei
+abstract: >-
+  Research code accompanying the manuscript of the same title. The manuscript
+  author list is provided here; module-specific code credits and license scope
+  are documented in the READMEs and LICENSES.md. No manuscript DOI or full-repository
+  archive DOI was supplied for this release preparation.

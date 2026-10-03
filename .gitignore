@@ -1,0 +1,29 @@
+# Local Python/Jupyter environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Experiment inputs (read the data READMEs before adding public datasets)
+/elastic/data/*
+!/elastic/data/README.md
+/fracture/data/*
+!/fracture/data/README.md
+/plastic/Images/*
+!/plastic/Images/README.md
+/plastic/Data/*
+!/plastic/Data/README.md
+
+# Generated experiment outputs and MATLAB temporary files
+/elastic/results/
+/fracture/results/
+*.asv
+*.m~
+outcmaes*
+actparcmaes.par
+variablescmaes.mat

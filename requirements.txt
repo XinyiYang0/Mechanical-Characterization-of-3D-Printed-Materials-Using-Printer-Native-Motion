@@ -1,0 +1,8 @@
+# Python 3.11; scientific-library versions available in the validation environment.
+numpy==2.2.6
+scipy==1.16.1
+opencv-python==4.12.0.88
+pandas==2.3.1
+matplotlib==3.10.3
+# Notebook user interface; not imported by the processing modules.
+jupyterlab>=4,<5
