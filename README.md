@@ -153,3 +153,9 @@ Its original copyright and BSD 3-Clause license are retained. The included
 CMA-ES implementation retains Nikolaus Hansen's notices and Victor Riera
 Naranjo's modification credit. See [CITATIONS.bib](CITATIONS.bib),
 [CITATION.cff](CITATION.cff), and [LICENSES.md](LICENSES.md).
+
+## License
+
+Unless otherwise indicated, the original source code is licensed
+under the BSD 3-Clause License. Third-party components retain
+their respective licenses. See LICENSE and LICENSES.md for details.
